@@ -17,7 +17,7 @@ To install the application, run 'npm i' in your terminal to ensure that all depe
 
 ## Usage Information
 
-View the application: <a href="https://git.heroku.com/secure-everglades-66379.git">Deployed Link</a>
+View the application: <a href="https://secure-everglades-66379.herokuapp.com/">Deployed Link</a>
 <img src="./images/notes.png">
 
 ## Test Instructions
